@@ -1,0 +1,14 @@
+com\example\client\Peca.class
+com\example\client\GetPecas.class
+com\example\client\AddPecaResponse.class
+com\example\client\PecaService.class
+com\example\client\AddPeca.class
+com\example\client\GetPecasResponse.class
+com\example\client\FindPecaByCodigo.class
+com\example\client\GetQuantidadeTotal.class
+com\example\client\ClienteManual.class
+com\example\client\PecaServiceImplService.class
+com\example\client\package-info.class
+com\example\client\GetQuantidadeTotalResponse.class
+com\example\client\ObjectFactory.class
+com\example\client\FindPecaByCodigoResponse.class
